@@ -36,4 +36,8 @@ Backend : Python (FastAPI), WebSockets 비동기 통신 및 AI 엔진 연동 최
 
 
 
-#설치방법
+# 사이트 사용방법
+https://og-web-3iy7.onrender.com 링크 접속시 즉시 실행가능
+
+
+
