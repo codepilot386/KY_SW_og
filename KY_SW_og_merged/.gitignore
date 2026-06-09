@@ -1,0 +1,22 @@
+# 환경변수 / API 키
+.env
+backend/.env
+frontend/.env
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# DB
+*.db
+
+# 기타
+.DS_Store
