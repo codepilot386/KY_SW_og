@@ -43,8 +43,8 @@ Security : Passlib(SHA-256 전처리 및 Bcrypt 단방향 비밀번호 암호화
 
 ## 실행방법  
 # 1.백엔드 실행  
-cd backend
-python -m pip install -r requirements.txt
+cd backend  
+python -m pip install -r requirements.txt  
 copy .env.example .env  
 .env 파일을 열고 GENNI_API_KEY를 본인 키로 바꾼 뒤 실행합니다.  
 python main.py  
@@ -52,8 +52,8 @@ python main.py
 
 ## 프론트엔드 실행  
 새 터미널에서 :  
-cd frontend
-npm install
+cd frontend  
+npm install  
 npm run dev  
 브라우저에 표시되는 Vite 주소로 접속하세요. http://127.0.0.1:5173입니다.
 
