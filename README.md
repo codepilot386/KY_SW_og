@@ -38,6 +38,23 @@ Security : Passlib(SHA-256 전처리 및 Bcrypt 단방향 비밀번호 암호화
 <img width="50%" height="909" alt="Image" src="https://github.com/user-attachments/assets/c640de3b-613d-48b5-a03c-d2b8a9bfb86f" />
 <img width="50%" height="910" alt="Image" src="https://github.com/user-attachments/assets/c4b1a984-388d-4822-9f5d-7e55a24b8928" />
 
-<img width="50%" height="910" alt="Image" src="https://github.com/user-attachments/assets/2fe96d8a-d34a-4e98-b3b6-46cdcd188f45" />
+<img width="50%" height="910" alt="Image" src="https://github.com/user-attachments/assets/2fe96d8a-d34a-4e98-b3b6-46cdcd188f45" />  
+
+
+## 실행방법  
+# 1.백엔드 실행  
+cd backend
+python -m pip install -r requirements.txt
+copy .env.example .env  
+.env 파일을 열고 GENNI_API_KEY를 본인 키로 바꾼 뒤 실행합니다.  
+python main.py  
+백엔드 주소 : http://127.0.0.1:8000  
+
+## 프론트엔드 실행  
+새 터미널에서 :  
+cd frontend
+npm install
+npm run dev  
+브라우저에 표시되는 Vite 주소로 접속하세요. http://127.0.0.1:5173입니다.
 
 
