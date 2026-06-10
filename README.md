@@ -334,3 +334,10 @@ created_at
 - 웹 브라우저 기반 서비스로 별도 설치 없이 사용 가능
 - FastAPI와 React를 하나의 Render 서버에서 통합 제공
 
+# 실행화면  
+<img width="1919" height="910" alt="Image" src="https://github.com/user-attachments/assets/1b07ce6a-bfbd-4ff0-b626-7e3acb06611f" />
+
+<img width="1919" height="910" alt="Image" src="https://github.com/user-attachments/assets/bc9dd2fd-7e71-4aaa-8e24-61f4af141614" />
+
+<img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/5f6b2beb-3fae-4e98-a02f-cde43669d9da" />
+
