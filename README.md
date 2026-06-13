@@ -70,7 +70,7 @@
 ---  
 
 ## 시스템 아키텍쳐  
-<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/1eda8fdf-6979-4d59-a4da-75732f230f54" />
+<img width="50%" height="768" alt="Image" src="https://github.com/user-attachments/assets/ee65b452-be4f-46bb-97ee-233229753e30" />
 
 ## 시스템 구조
 
