@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-generativeai
+httpx
+python-dotenv
+pydantic
+openpyxl   # DB → 엑셀 내보내기(export_db.py)용
+# 인증/DB(auth.py)는 파이썬 표준 라이브러리(sqlite3, hashlib, hmac, secrets)만 사용 — 추가 설치 불필요

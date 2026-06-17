@@ -1,0 +1,6 @@
+.env
+.secret
+app.db
+export/
+__pycache__/
+venv/
